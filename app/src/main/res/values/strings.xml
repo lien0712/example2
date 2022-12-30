@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">example2</string>
+    <string name="toast">toast</string>
+    <string name="count">count</string>
+    <string name="khong">0</string>
+    <string name="toast_message">Toast Message ....</string>
 </resources>
